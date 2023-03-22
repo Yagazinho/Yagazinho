@@ -56,12 +56,16 @@
     margin: 10px 0;
 }
 
+
 .btn {
     text-decoration: none;
-    display: block;
+    display: flex;
     border-radius: 5px;
     width: 40%;
     text-align: center;
+    bottom: 2px;
+    align-items: end;
+    
 }
 
 .btn:hover {
