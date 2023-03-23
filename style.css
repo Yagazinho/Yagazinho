@@ -9,7 +9,10 @@
 /*
 <img src="img.jpg"alt="goofy" > <h2 > Yaga74</h2 > <p > Super athlete on a winning streak</p > <div class="links" > <i class="fa fa-facebook" > </i > <i class="fa fa-twitter" > </i > <i class="fa fa-linkedin" > </i > </div > <a href="#"class="btn" > Contact</a >*/
 
-
+form.container{
+    display: flex;
+    
+}
 
 .container {
     width: 100%;
