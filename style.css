@@ -9,10 +9,7 @@
 /*
 <img src="img.jpg"alt="goofy" > <h2 > Yaga74</h2 > <p > Super athlete on a winning streak</p > <div class="links" > <i class="fa fa-facebook" > </i > <i class="fa fa-twitter" > </i > <i class="fa fa-linkedin" > </i > </div > <a href="#"class="btn" > Contact</a >*/
 
-form.container{
-    display: flex;
-    
-}
+
 
 .container {
     width: 100%;
@@ -62,13 +59,14 @@ form.container{
 
 .btn {
     text-decoration: none;
-    display: flex;
     border-radius: 5px;
-    width: 40%;
     text-align: center;
-    bottom: 2px;
-    align-items: end;
-    
+    position: absolute;
+    bottom: 5%;
+    margin: auto;
+    right: 0;
+    left: 0;
+    width: 100px;
 }
 
 .btn:hover {
