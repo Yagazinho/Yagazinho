@@ -59,13 +59,14 @@
 
 .btn {
     text-decoration: none;
-    display: flex;
     border-radius: 5px;
-    width: 40%;
     text-align: center;
-    bottom: 2px;
-    align-items: end;
-    
+    position: absolute;
+    bottom: 5%;
+    margin: auto;
+    right: 0;
+    left: 0;
+    width: 100px;
 }
 
 .btn:hover {
